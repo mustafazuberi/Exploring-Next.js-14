@@ -1,3 +1,4 @@
-export default function Page() {
+export default async function Page() {
   return <p>Dashboard Page</p>;
 }
+  
